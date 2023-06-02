@@ -1,0 +1,7 @@
+.container{
+   background-color: antiquewhite;
+}
+.box {
+    margin-top: 10px;
+    background-image: url('./bookbg.jpg');
+}
