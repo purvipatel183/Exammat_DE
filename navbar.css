@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary{
+    background-color: deepskyblue !important;
+}
+a.navbar-brand {
+    font-size: 36px;
+    color: black;
+    width: 408px;
+}
+li.nav-item {
+    margin-left: 28px;
+    font-size: 28px;
+}
+ul.dropdown-menu.show {
+    background-color: aliceblue;
+}
+.fa-solid, .fas {
+    font-weight: 900;
+    font-size: 28px;
+    margin: 12px;
+    color: floralwhite;
+    padding-left: 26px;
+}
+
